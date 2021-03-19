@@ -1,0 +1,11 @@
+CREATE DATABASE database_desafio;
+
+USE database1;
+
+CREATE TABLE IF NOT EXISTS table_desafio(
+id INT AUTO_INCREMENT PRIMARY KEY,
+Nome VARCHAR(60) NOT NULL, 
+Email VARCHAR(40) NOT NULL,
+Senha VARCHAR(30) NOT NULL,
+Data_Cadastro VARCHAR(50)
+);
