@@ -1,4 +1,4 @@
-# Campinas Tech Talents - Desafio Asertiva
+# Campinas Tech Talents - Desafio Assertiva
 
 
 Este repositório contém o desafio final desenvolvido durante a trilha em Java da Assertiva no Campinas Tech Talents.
